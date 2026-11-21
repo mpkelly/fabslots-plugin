@@ -10,6 +10,7 @@
     "url": "https://fabslots.app"
   },
   "homepage": "https://fabslots.app/guides/run-bookings-from-chatgpt-claude",
+  "repository": "https://github.com/mpkelly/fabslots-plugin",
   "license": "MIT",
   "keywords": [
     "bookings",
