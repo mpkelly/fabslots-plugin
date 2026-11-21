@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "fabslots",
   "displayName": "Fabslots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up online bookings for your business from one conversation, then run them from chat: today's schedule, moving and cancelling bookings, staff time off, class weeks and weekly reviews.",
   "author": {
     "name": "Fabslots",

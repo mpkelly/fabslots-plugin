@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "fabslots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up online bookings for your business from chat, then run them: schedules, bookings, staff time off, class weeks and weekly reviews.",
   "extensions": {
     "com.openai": {
@@ -82,7 +82,7 @@
         }
       },
       "publication": {
-        "release_notes": "Initial release: the Fabslots MCP server (booking management and setup tools) with six workflow skills."
+        "release_notes": "Initial release: the Fabslots MCP server (booking setup and management tools) with six workflow skills. Refunds are made by the business owner in the Fabslots admin, never by the assistant."
       }
     }
   }
