@@ -22,10 +22,5 @@
   "documentationUrl": "https://fabslots.app/guides/run-bookings-from-chatgpt-claude",
   "supportUrl": "https://fabslots.app/support",
   "privacyPolicyUrl": "https://fabslots.app/privacy",
-  "termsOfServiceUrl": "https://fabslots.app/terms",
-  "network": {
-    "hosts": [
-      "fabslots.app"
-    ]
-  }
+  "termsOfServiceUrl": "https://fabslots.app/terms"
 }
