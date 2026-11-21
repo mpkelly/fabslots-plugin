@@ -53,7 +53,7 @@ Full guide: [Run bookings from ChatGPT or Claude](https://fabslots.app/guides/ru
 
 ## Support
 
-Questions and problems: see the [guide](https://fabslots.app/guides/run-bookings-from-chatgpt-claude) or contact
-Fabslots through [fabslots.app](https://fabslots.app).
+Email [support@fabslots.app](mailto:support@fabslots.app) or see [fabslots.app/support](https://fabslots.app/support).
+Setup help is in the [guide](https://fabslots.app/guides/run-bookings-from-chatgpt-claude).
 
 [Privacy policy](https://fabslots.app/privacy) · [Terms](https://fabslots.app/terms) · MIT licensed

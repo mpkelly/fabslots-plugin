@@ -6,14 +6,26 @@
   "description": "Run your Fabslots booking business from chat: today's schedule, moving and cancelling bookings, staff time off, class weeks, weekly reviews, and setting up a new booking page from one conversation.",
   "author": {
     "name": "Fabslots",
+    "email": "support@fabslots.app",
     "url": "https://fabslots.app"
   },
   "homepage": "https://fabslots.app/guides/run-bookings-from-chatgpt-claude",
   "license": "MIT",
-  "keywords": ["bookings", "appointments", "scheduling", "classes", "small-business"],
+  "keywords": [
+    "bookings",
+    "appointments",
+    "scheduling",
+    "classes",
+    "small-business"
+  ],
   "icon": "./assets/logo.png",
   "documentationUrl": "https://fabslots.app/guides/run-bookings-from-chatgpt-claude",
+  "supportUrl": "https://fabslots.app/support",
   "privacyPolicyUrl": "https://fabslots.app/privacy",
   "termsOfServiceUrl": "https://fabslots.app/terms",
-  "network": { "hosts": ["fabslots.app"] }
+  "network": {
+    "hosts": [
+      "fabslots.app"
+    ]
+  }
 }

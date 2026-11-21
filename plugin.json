@@ -17,6 +17,7 @@
           "Manage bookings and business schedules"
         ],
         "websiteURL": "https://fabslots.app",
+        "supportURL": "https://fabslots.app/support",
         "privacyPolicyURL": "https://fabslots.app/privacy",
         "termsOfServiceURL": "https://fabslots.app/terms",
         "logo": "./assets/logo.png",
