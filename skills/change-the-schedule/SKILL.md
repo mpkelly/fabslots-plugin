@@ -22,8 +22,9 @@ afterwards who was emailed.
 ## Cancel a booking
 
 1. Find it as above.
-2. Call `cancel_booking` with the reason if the owner gave one. Show the preview: who is emailed, and any refund or
-   returned pass credit.
+2. Call `cancel_booking` with the reason if the owner gave one. Show the preview: who is emailed, and any returned
+   pass credit. The assistant never refunds: if the customer paid online, say the payment stays with the business
+   and the owner can refund or keep it in the Fabslots admin (Refunds to review on the schedule).
 3. Confirm only after the owner says yes.
 
 Never cancel bookings in bulk on a vague request like "cancel everything next month". Ask which bookings, then handle

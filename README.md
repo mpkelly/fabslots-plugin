@@ -46,9 +46,10 @@ Full guide: [Run bookings from ChatGPT or Claude](https://fabslots.app/guides/ru
 
 ## Safety
 
-- Anything that emails a customer, refunds money, or changes many things at once shows a preview first and waits for
-  your yes.
-- The assistant can't message customers in bulk, permanently delete data, or charge a card.
+- Anything that emails a customer or changes many things at once shows a preview first and waits for your yes.
+- The assistant can't message customers in bulk, permanently delete data, charge a card or refund one. When it
+  cancels a booking that was paid online, the payment waits under "Refunds to review" in the Fabslots admin, where you
+  refund it or keep it.
 - Billing, payment setup, custom domains, photos and team invites stay in the Fabslots admin. The assistant gives you
   a link.
 
