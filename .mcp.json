@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fabslots": {
+      "type": "http",
+      "url": "https://fabslots.app/mcp"
+    }
+  }
+}
