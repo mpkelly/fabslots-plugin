@@ -1,9 +1,10 @@
 # Fabslots
 
-Run your [Fabslots](https://fabslots.app) booking business from an AI assistant. Ask what's on tomorrow, move or
-cancel a booking, give a team member time off and sort out the bookings that clash, plan next week's classes, or see
-how the month went. If you don't have a booking page yet, describe your business and get a private link to preview,
-sign up and launch it.
+Set up online bookings for your business from an AI assistant, then run them there. Describe your business and get a
+complete booking page (services, team, hours, classes, tables or rentals) with a private link to preview, sign up and
+launch; no account is needed until you launch. Then ask what's on tomorrow, move or cancel a booking, give a team
+member time off and sort out the bookings that clash, plan next week's classes, or see how the month went in
+[Fabslots](https://fabslots.app).
 
 Fabslots handles appointments, classes, restaurant tables, rentals and timed entry, for salons, clinics, gyms, dance
 and yoga studios, bike and equipment rentals, cafés, restaurants, tours and other booking businesses.

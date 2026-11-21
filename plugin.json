@@ -2,14 +2,14 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "fabslots",
   "version": "1.0.0",
-  "description": "Run your Fabslots booking business from chat: schedules, bookings, staff time off, class weeks, weekly reviews and new booking-page setup.",
+  "description": "Set up online bookings for your business from chat, then run them: schedules, bookings, staff time off, class weeks and weekly reviews.",
   "extensions": {
     "com.openai": {
       "onboardingSkill": "./skills/fabslots-basics/SKILL.md",
       "interface": {
         "displayName": "Fabslots",
-        "shortDescription": "AI control for bookings",
-        "longDescription": "Connect Claude, ChatGPT and other assistants to the Fabslots booking system. Ask about today's schedule, search bookings and customers, find available times, and manage bookings, services, staff hours, classes, rentals, passes and more. Fabslots supports appointments, classes, restaurant tables, gyms and timed entry, bike and equipment rentals, clinics, studios, cafés and other booking businesses. Connect one or more businesses, choose view-only or manage access, and specify a location when a business has several. Write actions use previews and explicit confirmation where needed; no tool sends bulk marketing messages or permanently deletes a service. New businesses can start with a validated setup draft and launch after reviewing a private preview. Requires a Fabslots account for existing-business access. Assistant and plan availability depends on the provider's account and workspace settings.",
+        "shortDescription": "Set up and run your bookings",
+        "longDescription": "Set up online bookings for your business just by describing it. Fabslots builds the whole booking page from one conversation (services, team, opening hours, classes, tables or rentals), validates it and gives you a private preview to check, then you sign up and launch. No account is needed until you launch.\n\nThen run it from chat. Ask about today's schedule, search bookings and customers, find available times, and manage bookings, services, staff hours, classes, rentals, passes and more. Fabslots supports appointments, classes, restaurant tables, gyms and timed entry, bike and equipment rentals, clinics, studios, cafés and other booking businesses.\n\nConnect one or more businesses and choose view-only or manage access. Changes that affect customers show a preview and wait for your confirmation; no tool sends bulk marketing messages or permanently deletes a service. Managing an existing business requires a Fabslots account.",
         "developerName": "Fabslots",
         "category": "Productivity",
         "capabilities": [
@@ -23,9 +23,9 @@
         "logo": "./assets/logo.png",
         "composerIcon": "./assets/logo.png",
         "defaultPrompt": [
+          "Set up online bookings for my yoga studio.",
           "Show tomorrow's bookings for my Downtown location.",
-          "Find an available 60-minute appointment next week.",
-          "What setup does a bike rental business need?"
+          "Find an available 60-minute appointment next week."
         ]
       },
       "review": {
